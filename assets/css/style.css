@@ -46,3 +46,19 @@ h1 {
 figure {
     margin-top: 40px;
 }
+
+/* Sections
+   ========================================================================== */
+/**
+ * Remove the margin in all browsers (opinionated).
+ */
+body {
+  margin: 0;
+}
+
+html {
+  line-height: 1.15;
+  text-size-adjust: 100%;
+}
+
+      
